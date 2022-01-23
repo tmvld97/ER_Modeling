@@ -1,6 +1,6 @@
 ## 시나리오
 [Scenario.pdf](https://github.com/tmvld97/ER_Modeling/files/7919997/Scenario.pdf)
-## [요구사항 분석](https://github.com/tmvld97/ER_Modeling/tree/main/ERwin)(.pdf)
+## [요구사항 분석](https://github.com/tmvld97/ER_Modeling/tree/main/ERwin)(.hwp)
 ● 주체는 제3자 물류를 수행하는 업체이며 화주로부터 화물의 보관과 운송, 배송등 물류업무의 전체 또는 특정 부분을 위임받음.</br>
 ● 화주들은 각기 대리점을 가지고 있으며 대리점은 화주가 직접 설립하여 운영하는 직영점과 독립적인 사업자와 계약을 통한 가맹점이 있음.</br>
 ● 가맹점은 하나이상의 화주와 중복해서 대리점 계약을 맺을 수 있음.</br>
