@@ -43,6 +43,6 @@
 ● 시설물과 통로사이 관계를 만들고 통로와 통로사이 관계를 만들어 정보식별이 가능하게 한다.</br>
 ● 시설물과 통로사이 관계를 통해 ‘섹션’이라는 개체를 만들고 재고관리를 가능하게 한다.</br>
 
-## ER modeling
+[## ER modeling](./ERwin)
 ![page_1](https://user-images.githubusercontent.com/55508788/150678295-1a7fae6a-d438-481b-bc91-fc616a3bc323.png)
 ![page_2](https://user-images.githubusercontent.com/55508788/150678297-7f464012-90e4-467b-b7d8-7708dc215c48.png)
